@@ -22,4 +22,4 @@ A practical guide to understanding caching concepts, how caching works, and wher
 
 For the complete documentation, see:
 
-`caching-documentation.html`
+`./caching-documentation.html`
