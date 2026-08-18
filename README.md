@@ -19,5 +19,4 @@ A practical guide to understanding caching concepts, how caching works, and wher
 - Application caching
 
 ## Documentation
-
-For the complete documentation, see: (./caching-documentation.html)
+[Read the Full Documentation](./caching-documentation.html)
